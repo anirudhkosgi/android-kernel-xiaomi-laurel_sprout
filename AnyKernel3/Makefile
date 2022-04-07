@@ -27,5 +27,6 @@ clean:
 	@rm -vf *.zip*
 	@rm -vf zImage
 	@rm -vf Image*
+	@rm -vf dtbo*
 	@echo "Cleaned Up."
 
