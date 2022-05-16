@@ -10,8 +10,7 @@ do.cleanup=1
 do.cleanuponabort=1
 device.name1=laurel_sprout
 device.name2=
-supported.versions=11.0
-supported.versions=12.0
+supported.versions=11 - 12
 supported.patchlevels=
 '; }
 
